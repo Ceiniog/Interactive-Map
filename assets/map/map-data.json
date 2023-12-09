@@ -1,0 +1,32 @@
+{
+    "provinces": [
+      {
+        "id": 1,
+        "county": "uk",
+        "city": "London",
+        "svg": "<g></g>"
+      },
+      {
+        "id": 2,
+        "country": "uk",
+        "city": "Cardiff",
+        "svg": "<g></g>"
+      },
+      {
+        "id": 3,
+        "country": "france",
+        "city": "Paris",
+        "svg": "<g></g>"
+      }
+    ],
+    "capital-cities": [
+      {
+        "country": "uk",
+        "province-id": 1
+      },
+      {
+        "country": "france",
+        "province-id": 3
+      }
+    ]
+}
